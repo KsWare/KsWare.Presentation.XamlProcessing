@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KsWare.Presentation.XamlProcessing", "KsWare.Presentation.XamlProcessing\KsWare.Presentation.XamlProcessing.csproj", "{CA8A57EB-2176-48DC-9F00-F9D4238CFD91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KsWare.Presentation.XamlProcessing.Tests", "..\tests\KsWare.Presentation.XamlProcessing.Tests\KsWare.Presentation.XamlProcessing.Tests.csproj", "{F95742C9-BCB2-4D28-9440-605300A09C04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA8A57EB-2176-48DC-9F00-F9D4238CFD91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA8A57EB-2176-48DC-9F00-F9D4238CFD91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA8A57EB-2176-48DC-9F00-F9D4238CFD91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA8A57EB-2176-48DC-9F00-F9D4238CFD91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F95742C9-BCB2-4D28-9440-605300A09C04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F95742C9-BCB2-4D28-9440-605300A09C04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F95742C9-BCB2-4D28-9440-605300A09C04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F95742C9-BCB2-4D28-9440-605300A09C04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BF82617-71DA-4C98-BAB9-8DF6164BEE2E}
+	EndGlobalSection
+EndGlobal
